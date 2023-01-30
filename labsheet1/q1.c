@@ -39,7 +39,6 @@ int main()
     if ((ri + rh) > m || (ci + ch) > n)
     {
         printf("NOT POSSIBLE");
-        // printf("%d %d", (ri + ch), (ci + rh));
     }
 
     else
